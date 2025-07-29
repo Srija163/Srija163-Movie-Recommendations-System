@@ -67,9 +67,8 @@ streamlit run app.py
 Contributions are welcome! Fork the repository, make improvements, and open a pull request.  
 
 ## 📧 Contact
-**Developer:** Pavan Kumar  
-**GitHub:** [pavan161617](https://github.com/pavan161617)  
-**LinkedIn:** [Pavan Kumar](https://www.linkedin.com/in/pavan-kumar-b7639125a/)  
-**Email:** [pavan90990](mailto:pavan90990@gmail.com)  
+**Developer:** Budata Srija
+**GitHub:** [Srija163](https://github.com/Srija163)  
+**Email:** [budatasrija](mailto:budatasrija163@gmail.com)  
 
 ⭐ *If you find this project useful, please star the repository!* ⭐
