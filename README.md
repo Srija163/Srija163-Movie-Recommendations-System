@@ -29,7 +29,7 @@
 ## 🔧 Setup & Installation
 1️⃣ Clone the repository:
 ```bash
-git clone https://github.com/pavan161617/movie-recommendations-system.git  
+git clone https://github.com/Srija163/movie-recommendations-system.git  
 cd movie-recommendations-system  
 ```
 2️⃣ Create a virtual environment (optional but recommended):
